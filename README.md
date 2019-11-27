@@ -18,4 +18,5 @@ curl color:8080/;echo;
 > blue
 ```
 
+X-Ray screenshot
 ![X-Ray screenshot](xray-screenshot.png)
