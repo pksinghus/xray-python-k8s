@@ -1,3 +1,6 @@
+### Before you proceed
+Change the image names in build scripts and manifest.yaml
+
 ### Deploying the app
 Build and push images -
 ```shell script
